@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spin-off of "Project: Recipe book"</title>
+        <meta charset="utf-8">
+        <style>
+        .c123 {
+            color: rgb(255, 250, 247);
+            background-color: rgb(77, 64, 97);
+        }
+        body {
+            background-color: rgb(222, 86, 71);
+        }
+        .fgy {
+            color: rgb(207, 47, 19);
+            background-color: rgb(10, 13, 23);
+        }
+        .OOOO1 {
+            color: rgb(217, 255, 0);
+            background-color: rgb(1, 13, 4);
+        }
+        .hfg {
+            color: rgb(16, 134, 173);
+            background-color: rgb(102, 11, 102);
+        }
+         .fd {
+            color: rgb(250, 250, 250);
+            background-color: rgb(0, 0, 0);
+        }
+         .t {
+            color: rgb(250, 250, 250);
+            background-color: rgb(0, 0, 0);
+        }
+        .try {
+            color: rgb(252, 10, 10);
+            background-color: rgb(247, 247, 247);
+        }
+        .why {
+            color: rgb(247, 247, 247);
+            background-color: rgb(28, 22, 20);
+        }
+        .lazy {
+            color: rgb(214, 26, 26);
+            background-color: rgb(27, 180, 191);
+        }
+           .yummy {
+            color: rgb(9, 72, 99);
+            background-color: rgb(68, 189, 28);
+        }
+              .pizza {
+            color: rgb(217, 170, 28);
+            background-color: rgb(102, 106, 179);
+        }
+        </style>
+    </head>
+
+       
+        <h1 class="OOOO1">Master Chef Aulac's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#r">Cookies</a></li>
+            <li><a href="#e">Pesto Zoodles</a></li>
+              <li><a href="#c">Pepperoni Pizza</a></li>
+        </ol>
+        
+        <h2 id="r">Cookies</h2>
+        
+        
+        <ul class="c123">
+            <li>Time: 20 mins</li>
+            <li>Serves: 2 persons</li>
+        </ul>
+        
+        <table>
+            <thead>
+            
+                <tr class="fgy">
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                </thead>¨
+                <tbody>
+                 <tr class="fgy">
+                    <td>cups all-purpose flour
+                    <td>2 3/4 
+                </tr>
+                 <tr class="fgy">
+                    <td>teaspoon baking soda
+                    <td>1
+                </tr>
+                 <tr class="fgy">
+                    <td>teaspoon baking powder
+                    <td>1/2
+                </tr>
+                 <tr class="fgy">
+                    <td>cup butter, softened
+                    <td>1 
+                </tr>
+                  <tr class="fgy">
+                    <td> cups white sugar
+                    <td>11/2
+                </tr>
+                  <tr class="fgy">
+                    <td>egg
+                    <td>1 
+                </tr>
+                  <tr class="fgy">
+                    <td>teaspoon vanilla extract
+                    <td>1 
+                </tr>
+
+               
+               
+            </tbody>   
+            </table>
+            
+            
+        
+            
+        
+        
+        <p class="hfg"><strong>Step 1:</strong>
+        Preheat oven to 375 degrees F (190 degrees C). In a small bowl, stir together flour, baking soda, and baking powder. Set aside.
+</p>
+ <p class="hfg"><strong>Step 2:</strong>In a large bowl, cream together the butter and sugar until smooth. Beat in egg and vanilla. Gradually blend in the dry ingredients. Roll rounded teaspoonfuls of dough into balls, and place onto ungreased cookie sheets.
+</p>
+ <p class="hfg"><strong>Step 3:</strong> In a large bowl, cream together the butter and sugar until smooth. Beat in egg and vanilla. Gradually blend in the dry ingredients. Roll rounded teaspoonfuls of dough into balls, and place onto ungreased cookie sheets.
+</p>
+ 
+        
+    <p><em class="fd">Source: <a href="https://www.allrecipes.com/recipe/9870/easy-sugar-cookies/">The cookie recipe</a></em></p>
+     <h3 id="e"><strong class="t">Pesto Zoodles</strong></h3>
+     
+     
+     
+
+    
+    
+    
+    
+            <ul class="c123">
+            <li>Time: 25 mins</li>
+            <li>Serves: 2 persons</li>
+        </ul>
+        
+         <table>
+            <thead>
+                <tr class="try">
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                
+                </thead>
+                <tbody>
+                <tr class="try">
+                   <td> olive oil
+                   <td>1 tablespoon
+                </tr>
+                 <tr class="try">
+                   <td>  small zucchini, cut into noodle-shape strands
+                   <td>4
+                </tr>
+                 <tr class="try">
+                   <td> drained and rinsed canned garbanzo beans (chickpeas)
+                   <td>1/2 cup
+                </tr>
+                 <tr class="try">
+                   <td> pesto, or to taste
+                   <td>3 tablespoons
+                </tr>
+                 <tr class="try">
+                   <td> salt and ground black pepper to taste
+                   <td> 
+                    </tr>
+                    <tr class="try">
+                   <td> shredded white Cheddar cheese, or to taste
+                   <td> 2 tablespoons
+                </tr>
+                
+                
+                </tbody>
+                </table>
+                        <p class="why"><strong>Step 1:</strong> 
+                        Heat olive oil in a skillet over medium heat; cook and stir zucchini until tender and liquid has evaporated, 5 to 10 minutes.
+                       
+</p>
+        <p class="why"><strong>Step 2:</strong>
+        Stir garbanzo beans and pesto into zucchini; lower heat to medium-low. Cook and stir until garbanzo beans are warm and zucchini is evenly coated, about 5 minutes; season with salt and pepper.
+        
+</p>
+        <p class="why"><strong>Step 3:</strong> 
+        Transfer zucchini mixture to serving bowls and top with white Cheddar cheese.
+</p>
+<p><em class="fd">Source: <a href="https://www.allrecipes.com/recipe/242222/pesto-zoodles/">Pesto Zoodles recipe</a></em></p>
+     <h3 id="c"><strong class="t">Pepperoni pizza</strong></h3>
+     
+     
+      <ul class="lazy">
+            <li>Time: 20 mins</li>
+            <li>Serves: 8 persons</li>
+        </ul>
+        
+        
+        
+         <table>
+            <thead>
+                <tr class="yummy">
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                <tr class="yummy">
+                    <td>Hunt's® Tomato Sauce-No Salt Added
+                    <td>1 can (8 oz each)
+                </tr>
+                 <tr class="yummy">
+                    <td>grated Parmesan cheese
+                    <td>1/4 cup
+                </tr>
+                 <tr class="yummy">
+                    <td>dried oregano
+                    <td>1/4 teaspoon
+                </tr>
+                 <tr class="yummy">
+                    <td>prebaked thin pizza crust (12-inch)
+                    <td>1
+                </tr>
+                 <tr class="yummy">
+                    <td>shredded part-skim mozzarella cheese
+                    <td>1 cup
+                </tr>
+                 <tr class="yummy">
+                    <td>sliced pepperoni
+                    <td>1/3 cup
+                </tr>
+               
+       
+               
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+          <p class="why"><strong>Step 1:</strong> 
+                 Preheat oven to 450°F. Combine tomato sauce, Parmesan cheese and oregano in small bowl; spread tomato sauce evenly over crust. Sprinkle pizza with mozzarella cheese; top with pepperoni.
+                       
+</p>
+        <p class="why"><strong>Step 2:</strong>
+        Place on ungreased pizza pan. Bake 12 to 15 minutes or until edges of crust are browned lightly and cheese melts. Cut pizza into 6 slices.
+       
+        
+</p>
+<p><em class="pizza">Source: <a href="https://www.readyseteat.com/recipes-Easy-Pepperoni-Pizza-6934">Pepperoni Pizza recipe</a></em></p>
+     
+
+                
+    
+  </html>  
+    
+    
+    
+    
+    
+   
+               
+
+    
+
